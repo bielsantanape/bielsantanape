@@ -1,4 +1,4 @@
-Oá, eu sou o Gabriel Augusto.
+Olá, eu sou o Gabriel Augusto.
 - 🔭 Hoje, trabalho com JavaScript no front end com React.
 - 🌱 Estudando NodeJs.
 - 📫 Contate-me no email: biel.santanapx@gmail.com
