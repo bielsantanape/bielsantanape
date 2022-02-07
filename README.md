@@ -1,8 +1,7 @@
 Oá, eu sou o Gabriel Augusto.
-- 🔭 Hoje, trabalho com JavaScript no front end com react.
+- 🔭 Hoje, trabalho com JavaScript no front end com React.
 - 🌱 Estudando NodeJs.
 - 📫 Contate-me no email: biel.santanapx@gmail.com
-- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/bielsantanape">
